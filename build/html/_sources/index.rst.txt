@@ -207,8 +207,11 @@ A avaliação do seminário se dará segundo os 5 critérios seguintes:
     - cumprimento do plano de aula;
     - adequação do plano ao tempo previsto.
 
-De acordo com o Art. 103, “Considera-se frequência a presença do discente em
-atividades letivas previstas no calendário acadêmico.” e para sua aprovação, o
+O **Art. 104** do `Regulamento dos Cursos de Graduação do IF Goiano <https://su
+ap.ifgoiano.edu.br/media/documentos/arquivos/Regulamento_de_Gradua%C3%A7%C3%A3o
+_Res._054-CS-2019_-_Revisado_e_atualizado.pdf>`_ “Considera-se frequência a 
+presença do discente em atividades letivas previstas no calendário acadêmico.”
+e para sua aprovação, o
 discente deverá apresentar frequência mínima de 75% nas atividades letivas, a
 contar de sua matrícula. Será computada a frequência
 do estudante que estiver participando de eventos acadêmicos, bem como viagens ou

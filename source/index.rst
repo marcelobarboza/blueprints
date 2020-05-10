@@ -66,13 +66,14 @@ Objetivos
     Introduzir funções de uma variável complexa, estendendo o cálculo das
     funções de uma variável real, visando familiarizar o aluno com a fórmula de
     Cauchy e suas consequências, e com aplicações ao cálculo de integrais
-    impróprias de uma variável real a valores reais.
+    impróprias de funções de uma variável real a valores reais.
 
 **Específico**
     Adquirir noções de funções de variável complexa; desenvolver funções de
     variável complexa em séries de Laurent; classificar singularidades e
     calcular resíduos de funções de variável complexa; estudar as aplicações do
-    Teorema dos resíduos para o cálculo de integrais de funções reais.
+    Teorema dos resíduos para o cálculo de integrais de funções reais de uma
+    variável real.
 
 Programa
 --------
@@ -80,7 +81,7 @@ Programa
 #. Números Complexos:
 
     - definição, soma e multiplicação, conjugação, valor absoluto;
-    - representação geométrica e forma polar de um número complexo;
+    - representação geométrica e forma polar;
     - raízes n-ésimas;
     - exponencial de um número complexo;
     - conjuntos de pontos no plano complexo;
@@ -127,12 +128,9 @@ Programa
 Metodologia
 -----------
 
-As aulas se darão de modo teórico e em sala de aula. Serão utilizados como
-instrumentos o quadro e o giz (ou pincel, de acordo com a disponibilidade).
-Para aperfeiçoamento do conhecimento e auxílio nas avaliações aqui previstas,
-serão oferecidos no decorrer do semestre e por meio da plataforma virtual
-*MOODLE*, listas de exercícios e atividades que complementem ao presente plano,
-assim como conteúdos outros que auxiliem no ensino-aprendizagem. Além dos
+As aulas se darão de forma teórica e em sala de aula, sendo utilizados o quadro
+negro e o giz. Materiais complementares às aulas, como listas de exercícios ou
+links para páginas da internet, serão postados no *MOODLE* ao longo do semestre.
 conteúdos disponibilizados no *MOODLE* será também oferecido ao discente, em
 consonância com o Regulamento de Atividades Docentes, atendimento extra classe
 no decorrer da semana e em horário combinado no primeiro dia de aula e
@@ -207,8 +205,11 @@ A avaliação do seminário se dará segundo os 5 critérios seguintes:
     - cumprimento do plano de aula;
     - adequação do plano ao tempo previsto.
 
-De acordo com o Art. 103, “Considera-se frequência a presença do discente em
-atividades letivas previstas no calendário acadêmico.” e para sua aprovação, o
+O **Art. 104** do `Regulamento dos Cursos de Graduação do IF Goiano <https://su
+ap.ifgoiano.edu.br/media/documentos/arquivos/Regulamento_de_Gradua%C3%A7%C3%A3o
+_Res._054-CS-2019_-_Revisado_e_atualizado.pdf>`_ “Considera-se frequência a 
+presença do discente em atividades letivas previstas no calendário acadêmico.”
+e para sua aprovação, o
 discente deverá apresentar frequência mínima de 75% nas atividades letivas, a
 contar de sua matrícula. Será computada a frequência
 do estudante que estiver participando de eventos acadêmicos, bem como viagens ou

@@ -19,14 +19,14 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Plano de Ensino'
+project = 'Blueprints'
 copyright = '2020, Marcelo Barboza'
 author = 'Marcelo Barboza'
 
 # The short X.Y version
-version = '0.0'
+version = ''
 # The full version, including alpha/beta/rc tags
-release = 'a1'
+release = ''
 
 
 # -- General configuration ---------------------------------------------------
@@ -103,7 +103,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'PlanodeEnsinodoc'
+htmlhelp_basename = 'Blueprintsdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -130,7 +130,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'PlanodeEnsino.tex', 'Plano de Ensino Documentation',
+    (master_doc, 'Blueprints.tex', 'Blueprints Documentation',
      'Marcelo Barboza', 'manual'),
 ]
 
@@ -140,7 +140,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'planodeensino', 'Plano de Ensino Documentation',
+    (master_doc, 'blueprints', 'Blueprints Documentation',
      [author], 1)
 ]
 
@@ -151,8 +151,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'PlanodeEnsino', 'Plano de Ensino Documentation',
-     author, 'PlanodeEnsino', 'One line description of project.',
+    (master_doc, 'Blueprints', 'Blueprints Documentation',
+     author, 'Blueprints', 'One line description of project.',
      'Miscellaneous'),
 ]
 
