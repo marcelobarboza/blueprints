@@ -1,7 +1,6 @@
-.. Blueprints documentation master file, created by
-   sphinx-quickstart on Sun May  3 15:31:44 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. Blueprints documentation master file, created by sphinx-quickstart on
+   Sun May 3 15:31:44 2020. You can adapt this file completely to your liking,
+   but it should at least contain the root `toctree` directive.
 
 ===============
 Plano de Ensino
@@ -23,7 +22,7 @@ Identificação
     MAT701
 
 :Curso:
-   
+
     Licenciatura em Matemática
 
 :Modalidade:
@@ -64,10 +63,9 @@ Objetivos
 
 **Geral**
     Introduzir funções de uma variável complexa e estender a estas o cálculo
-    diferencial e integral desenvolvido para funções de uma variável real, com
-    vistas a familiarizar o estudante à fórmula integral de Cauchy e suas
-    consequências, como o cálculo de integrais impróprias de funções de uma
-    variável real.
+    diferencial e integral para funções de uma variável real, com vistas a
+    familiarizar o estudante à fórmula integral de Cauchy e suas consequências,
+    como o cálculo de integrais impróprias de funções de uma variável real.
 
 **Específico**
     Manejo de funções de variável complexa; expansão em série de Laurent;
@@ -101,7 +99,7 @@ Programa
 
     - caminhos;
     - integrais ao longo de caminhos;
-    - Teorema de Cauchy-Green;
+    - Teorema de Green;
     - Teorema de Cauchy-Goursat;
     - primitivas;
     - fórmula integral de Cauchy;
@@ -129,20 +127,21 @@ Metodologia
 
 As aulas serão sempre expositivas e o quadro negro e o giz são os recursos
 didáticos essenciais. No decorrer do semestre serão oferecidos materiais
-suplementares às aulas, como listas de exercícios ou links para páginas da
-Internet, através da plataforma de aprendizagem `Moodle
-<https://moodle.ifgoiano.edu.br>`_.
+suplementares às aulas, como listas de exercícios ou links para certas páginas
+da Internet, através da plataforma de aprendizagem `Moodle
+<https://moodel.ifgoiano.edu.br>`_.
 
 Para informações sobre atendimento, clique aqui_.
 
 Avaliação
 ---------
 
-A nota final de cada aluno, aqui representada por :math:`N_f`, será composta de:
+A note final de cada aluno, que representaremos por :math:`N_f`, será composta
+de:
  
 - duas provas escritas, :math:`P_1` e :math:`P_2`, no valor de 10,0 pontos
   cada;
-- uma apresentação oral (seminário), :math:`S`, no valor de 10,0 pontos,
+- um seminário, :math:`S`, no valor de 10,0 pontos,
 
 seguindo-se a fórmula abaixo:
 
@@ -156,7 +155,7 @@ de 60 minutos. A ordem das apresentações será estabelecida:
 
 - pelo sorteio do número de matrícula do aluno, sem reposição;
 - com antecedência mínima de uma e máxima de duas semanas, tendo-se como
-  referência da data da próxima apresentação.
+  referência a data da próxima apresentação.
 
 A avaliação do seminário se dará segundo os 5 critérios seguintes:
 
@@ -200,30 +199,23 @@ A avaliação do seminário se dará segundo os 5 critérios seguintes:
     - cumprimento do plano de aula;
     - adequação do plano ao tempo previsto.
 
-O **Art. 104** do `Regulamento dos Cursos de Graduação do IF Goiano <https://su
-ap.ifgoiano.edu.br/media/documentos/arquivos/Regulamento_de_Gradua%C3%A7%C3%A3o
-_Res._054-CS-2019_-_Revisado_e_atualizado.pdf>`_ “Considera-se frequência a 
-presença do discente em atividades letivas previstas no calendário acadêmico.”
-e para sua aprovação, o
-discente deverá apresentar frequência mínima de 75% nas atividades letivas, a
-contar de sua matrícula. Será computada a frequência
-do estudante que estiver participando de eventos acadêmicos, bem como viagens ou
-visitas técnicas, organizadas pela Instituição, orientadas e acompanhadas por
-docentes, com lista de presença assinada pelo estudante, em conformidade com o
-Art. 104. Caso o discente não enquadre no Art 104 o mesmo poderá justificar sua
-ausência. Consideram-se faltas justificadas as ausências do estudante com devida
-comprovação legal, aceita nos termos da legislação vigente. Vale ressaltar que a
-falta justificada, excluindo as previstas do Art. 103, não abona a falta em si
-(parágrafo único Art. 105). Portanto, essas são contabilizadas normalmente no
-percentual máximo permitido na unidade curricular.
+**Aprovação**
 
-Caso o discente tenha pelo menos 75% de presença ele será considerado:
+O discente está
 
-- Aprovado: Caso NF seja maior ou igual 6,0
+:Aprovado:
 
-- Em recuperação final: Caso NF seja maior ou igual a 3,0 e menor que 6,0
+    :math:`N_f \geqslant 6.0`
 
-- Reprovado: Caso NF seja menor que 3,0
+:Em recuperação:
+
+    :math:`N_f < 6.0 \mbox{ e } N_f \geqslant 3.0`
+
+:Reprovado:
+
+    :math:`N_f < 3.0`
+
+desde que possua o mínimo de 75% de frequência na disciplina. Veja isto_.
 
 **Recuperação**
     A recuperação final (:math:`R`) será uma avaliação de pontuação possível
@@ -245,21 +237,45 @@ Caso o discente tenha pelo menos 75% de presença ele será considerado:
 
 O discente será considerado:
 
-**Aprovado**
-    caso
+:Aprovado:
 
-.. math::
-   \begin{equation}
-   M_f \geqslant 6,0,
-   \end{equation}
+    :math:`M_f \geqslant 6.0`
 
-**Reprovado**
-    caso
+:Reprovado:
 
-.. math::
-   \begin{equation}
-   M_f<6,0.
-   \end{equation}
+    :math:`M_f < 6.0`
+
+.. _isto:
+
+**Faltas**
+
+O `Regulamento dos Cursos de Graduação do IF Goiano <https://suap.ifgoiano.edu.b
+r/media/documentos/arquivos/Regulamento_de_Gradua%C3%A7%C3%A3o_Res._054-CS-2019_
+-_Revisado_e_atualizado.pdf>`_ estabelece que:
+
+::
+
+    Art. 104. Considera-se frequência a presença do discente em atividades letivas previstas no calendário acadêmico.
+
+    §1º Será exigido do estudante o mínimo de 75% de presença às atividades letivas para a aprovação na disciplina a
+    partir da data de sua matrícula na mesma.
+
+    ...
+
+    Art. 105. Será computada a frequência do estudante que estiver participando de eventos acadêmicos, bem como viagens
+    ou visitas técnicas, organizadas pela Instituição, orientadas e acompanhadas por docentes, com lista de presença
+    assinada pelo estudante.
+
+    Parágrafo único.A carga horária a ser computada, por disciplina,será,no máximo, a carga horária regular da
+    disciplina nos dias de participação no evento.
+
+    ...
+
+    Art. 106. Consideram-se faltas justificadas as ausências do estudante com devida comprovação legal, aceita nos
+    termos da legislação vigente.
+
+    Parágrafo único. A justificativa à ausência não abona as faltas dos estudantes. Portanto, essas são contabilizadas
+    normalmente no percentual máximo permitido na unidade curricular.
 
 Bibliografia
 ------------
@@ -285,15 +301,14 @@ Atendimento
 
 - Atendimento na sala do Professor, em horário previamente divulgado;
 - Através do e-mail institucional: marcelo.barboza@ifgoiano.edu.br;
-- Através da plataforma de aprendizagem `Moodle
-  <https://moodle.ifgoiano.edu.br>`_.
+- Através da plataforma de aprendizagem *Moodle*.
 
 Cronograma
 ----------
 
 .. csv-table::
-   :header: "Data", "Aulas", "Tópico"
-   :widths: 4, 1, 30
+   :header: "Previsão", "Nº de aulas", "Conteúdo"
+   :widths: 4, 5, 30
 
    "2020/02/03", 2, "Apresentação do plano de ensino"
    "2020/02/06", 2, "Proposições e conectivos"
