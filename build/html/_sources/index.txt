@@ -1,4 +1,4 @@
-.. Plano de Ensino documentation master file, created by
+.. Blueprints documentation master file, created by
    sphinx-quickstart on Sun May  3 15:31:44 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -11,8 +11,8 @@ Plano de Ensino
    :maxdepth: 2
    :caption: Contents:
 
-Apresentação
-------------
+Identificação
+-------------
 
 :Disciplina:
 
@@ -57,30 +57,30 @@ Ementa
 ------
 
 Funções Analíticas; Transformações por funções elementares; Teoria da Integral;
-Série de Potências; Resíduos e Pólos; Aplicações.
+Séries de Potências; Resíduos e Pólos; Aplicações.
 
 Objetivos
 ---------
 
 **Geral**
-    Introduzir funções de uma variável complexa, estendendo o cálculo das
-    funções de uma variável real, visando familiarizar o aluno com a fórmula de
-    Cauchy e suas consequências, e com aplicações ao cálculo de integrais
-    impróprias de uma variável real a valores reais.
+    Introduzir funções de uma variável complexa e estender a estas o cálculo
+    diferencial e integral desenvolvido para funções de uma variável real, com
+    vistas a familiarizar o estudante à fórmula integral de Cauchy e suas
+    consequências, como o cálculo de integrais impróprias de funções de uma
+    variável real.
 
 **Específico**
-    Adquirir noções de funções de variável complexa; desenvolver funções de
-    variável complexa em séries de Laurent; classificar singularidades e
-    calcular resíduos de funções de variável complexa; estudar as aplicações do
-    Teorema dos resíduos para o cálculo de integrais de funções reais.
+    Manejo de funções de variável complexa; expansão em série de Laurent;
+    classificação de singularidades e cálculo de resíduos; aplicação do Teorema
+    dos resíduos ao cálculo de integrais de funções de uma variável real.
 
 Programa
 --------
 
 #. Números Complexos:
 
-    - definição, soma e multiplicação, conjugação, valor absoluto;
-    - representação geométrica e forma polar de um número complexo;
+    - definição, soma e multiplicação, conjugação e valor absoluto;
+    - representação geométrica e forma polar;
     - raízes n-ésimas;
     - exponencial de um número complexo;
     - conjuntos de pontos no plano complexo;
@@ -99,10 +99,10 @@ Programa
 
 #. Integração Complexa:
 
-    - contornos;
-    - integrais curvilíneas;
+    - caminhos;
+    - integrais ao longo de caminhos;
     - Teorema de Cauchy-Green;
-    - Teorema de Cauchy-Goursar;
+    - Teorema de Cauchy-Goursat;
     - primitivas;
     - fórmula integral de Cauchy;
     - derivadas de ordem superior;
@@ -121,49 +121,42 @@ Programa
 #. Singularidades, Resíduos e Integrais:
 
     - singularidades isoladas;
-    - Teorema do Resíduo;
+    - Teorema dos Resíduos;
     - aplicações do Teorema do Resíduo ao cálculo de integrais.
 
 Metodologia
 -----------
 
-As aulas se darão de modo teórico e em sala de aula. Serão utilizados como
-instrumentos o quadro e o giz (ou pincel, de acordo com a disponibilidade).
-Para aperfeiçoamento do conhecimento e auxílio nas avaliações aqui previstas,
-serão oferecidos no decorrer do semestre e por meio da plataforma virtual
-*MOODLE*, listas de exercícios e atividades que complementem ao presente plano,
-assim como conteúdos outros que auxiliem no ensino-aprendizagem. Além dos
-conteúdos disponibilizados no *MOODLE* será também oferecido ao discente, em
-consonância com o Regulamento de Atividades Docentes, atendimento extra classe
-no decorrer da semana e em horário combinado no primeiro dia de aula e
-disponibilizado no plano semanal de trabalho do professor.
+As aulas serão sempre expositivas e o quadro negro e o giz são os recursos
+didáticos essenciais. No decorrer do semestre serão oferecidos materiais
+suplementares às aulas, como listas de exercícios ou links para páginas da
+Internet, através da plataforma de aprendizagem `Moodle
+<https://moodle.ifgoiano.edu.br>`_.
 
-Critérios de Avaliação
-----------------------
+Para informações sobre atendimento, clique aqui_.
 
-A nota final de cada discente, :math:`N_f` em símbolos, será composta de:
-   
+Avaliação
+---------
+
+A nota final de cada aluno, aqui representada por :math:`N_f`, será composta de:
+ 
 - duas provas escritas, :math:`P_1` e :math:`P_2`, no valor de 10,0 pontos
   cada;
 - uma apresentação oral (seminário), :math:`S`, no valor de 10,0 pontos,
 
-seguindo a fórmula abaixo:
+seguindo-se a fórmula abaixo:
 
 .. math::
    \begin{equation}
    N_f = \dfrac{2P_1+2P_2+S}{5}.
    \end{equation}
-   
-O *seminário* constará de uma apresentação oral e individual, com duração
-máxima de 25 minutos. O tema da apresentação será sorteado com antecedência
-mínima de uma e máxima de duas semanas, tendo-se como referência a data de
-apresentação.
 
-A lista de temas para o sorteio dos seminários terá tantos itens quantos forem
-os alunos inicialmente matriculados na disciplina e será previamente
-disponibilizada pelo Professor, de acordo com o cronograma deste plano de
-ensino. Na ocasião do sorteio do tema, também será sorteado, pelo número de
-matrícula, o discente a apresentar aquele tema.
+O *seminário* consiste em uma apresentação oral e individual, com duração máxima
+de 60 minutos. A ordem das apresentações será estabelecida:
+
+- pelo sorteio do número de matrícula do aluno, sem reposição;
+- com antecedência mínima de uma e máxima de duas semanas, tendo-se como
+  referência da data da próxima apresentação.
 
 A avaliação do seminário se dará segundo os 5 critérios seguintes:
 
@@ -247,21 +240,60 @@ Caso o discente tenha pelo menos 75% de presença ele será considerado:
 
 .. math::
    \begin{equation}
-   M_f = \mbox{máx}\left\{N_f, \dfrac{N_f+R}{2}\right\}
+   M_f = \mbox{máx}\left\{N_f, \dfrac{N_f+R}{2}\right\}.
    \end{equation}
 
 O discente será considerado:
 
-- Aprovado: caso MF seja maior ou igual a 6,0;
+**Aprovado**
+    caso
 
-- Reprovado: caso MF seja menor que 6,0.
+.. math::
+   \begin{equation}
+   M_f \geqslant 6,0,
+   \end{equation}
+
+**Reprovado**
+    caso
+
+.. math::
+   \begin{equation}
+   M_f<6,0.
+   \end{equation}
+
+Bibliografia
+------------
+
+.. rubric:: Básica
+
+.. [1] Churchill, Ruel V. Variáveis complexas e suas aplicações. McGraw-Hill do Brasil, 1980;
+.. [2] Ávila, Geraldo. Variáveis complexas e aplicações. LTC, 2008;
+.. [3] Fernandez, Cecília. S.; Bernardes, Nilson C. Introdução às funções de uma variável complexa. SBM, 2013.
+
+.. rubric:: Complementar
+
+.. [4] Soares, Marcio Gomes. Cálculo em uma variável complexa. Impa, 2012;
+.. [5] Lins Neto, Alcides. Funções de uma variável complexa. Rio de Janeiro: SBM, 1996;
+.. [6] Guidorizzi, Hamilton L.; Um curso de cálculo. vol. 2. 2001;
+.. [7] Guidorizzi, Hamilton L.; Um curso de cálculo. vol. 3. 2001;
+.. [8] Lima, Elon Lages. Curso de análise. Rio de Janeiro: IMPA, 1989. Vol. 2.
+
+.. _aqui:
+
+Atendimento
+-----------
+
+- Atendimento na sala do Professor, em horário previamente divulgado;
+- Através do e-mail institucional: marcelo.barboza@ifgoiano.edu.br;
+- Através da plataforma de aprendizagem `Moodle
+  <https://moodle.ifgoiano.edu.br>`_.
 
 Cronograma
 ----------
 
 .. csv-table::
-   :header: "Data", "Qtd de aulas", "Assunto"
-   :widths: 4, 8, 30
+   :header: "Data", "Aulas", "Tópico"
+   :widths: 4, 1, 30
 
    "2020/02/03", 2, "Apresentação do plano de ensino"
    "2020/02/06", 2, "Proposições e conectivos"
