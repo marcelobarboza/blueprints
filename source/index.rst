@@ -215,9 +215,7 @@ Os critérios de aprovação, recuperação e reprovação são os seguintes:
 
     :math:`N_f < 3.0`
 
-e se aplicam aos discentes com frequência mínima de 75%.
-
-Veja isto_.
+e se aplicam aos discentes com até 25% de faltas_.
 
 **Recuperação**
    A recuperação, digamos :math:`R`, é uma prova com as
@@ -255,13 +253,13 @@ O discente será considerado:
 
     :math:`M_f < 6.0`
 
-.. _isto:
+.. _faltas:
 
 **Faltas**
 
-O `Regulamento dos Cursos de Graduação do IF Goiano <https://suap.ifgoiano.edu.b
-r/media/documentos/arquivos/Regulamento_de_Gradua%C3%A7%C3%A3o_Res._054-CS-2019_
--_Revisado_e_atualizado.pdf>`_ estabelece que:
+O `Regulamento dos Cursos de Graduação do IF Goiano <https://suap.ifgoiano.edu.
+br/media/documentos/arquivos/Regulamento_de_Gradua%C3%A7%C3%A3o_Res._054-CS-2019
+_-_Revisado_e_atualizado.pdf>`_ estabelece que:
 
 ::
 
