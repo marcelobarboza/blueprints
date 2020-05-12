@@ -1,6 +1,5 @@
-.. Blueprints documentation master file, created by sphinx-quickstart on
-   Sun May 3 15:31:44 2020. You can adapt this file completely to your liking,
-   but it should at least contain the root `toctree` directive.
+.. image:: ../images/marca.png
+   :width: 120
 
 ===============
 Plano de Ensino
@@ -8,7 +7,6 @@ Plano de Ensino
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
 Identificação
 -------------
@@ -65,7 +63,7 @@ Objetivos
     Introduzir funções de uma variável complexa e estender a estas o cálculo
     diferencial e integral para funções de uma variável real, com vistas a
     familiarizar o estudante à fórmula integral de Cauchy e suas consequências,
-    como o cálculo de integrais de funções de uma variável real.
+    como o cálculo de certas integrais de funções de uma variável real.
 
 **Específico**
     Manejo de funções de variável complexa; expansão em série de Laurent;
@@ -125,25 +123,24 @@ Programa
 Metodologia
 -----------
 
-As aulas serão sempre expositivas e o quadro negro e o giz são os recursos
-didáticos essenciais. No decorrer do semestre serão oferecidos materiais
-suplementares às aulas, como listas de exercícios ou links para certas páginas
-da Internet, através da plataforma de aprendizagem `Moodle
-<https://moodle.ifgoiano.edu.br>`_.
+As aulas serão sempre expositivas. Quadro negro e giz são os recursos didáticos
+essenciais. No decorrer do semestre serão oferecidos materiais suplementares às
+aulas, como listas de exercícios ou links para determinadas páginas da Internet
+(como `esta <https://math.stackexchange.com>`_, por exemplo), através da
+plataforma de aprendizagem `Moodle <https://moodle.ifgoiano.edu.br>`_.
 
 Para informações sobre atendimento, clique aqui_.
 
 Avaliação
 ---------
 
-A nota final de cada aluno, que representaremos por :math:`N_f`, será composta
-de:
+A nota final, :math:`N_f`, será composta de:
  
 - duas provas escritas, :math:`P_1` e :math:`P_2`, no valor de 10.0 pontos
   cada;
 - um seminário, :math:`S`, no valor de 10.0 pontos,
 
-seguindo-se a fórmula abaixo:
+seguindo-se esta fórmula:
 
 .. math::
    \begin{equation}
@@ -153,11 +150,11 @@ seguindo-se a fórmula abaixo:
 O *seminário* consiste em uma apresentação oral e individual, com duração máxima
 de 60 minutos. A ordem das apresentações será estabelecida:
 
-- pelo sorteio do número de matrícula do aluno, sem reposição;
+- pelo sorteio, sem reposição, do número de matrícula do discente;
 - com antecedência mínima de uma e máxima de duas semanas, tendo-se como
   referência a data da próxima apresentação.
 
-A avaliação do seminário se dará segundo os 5 critérios seguintes:
+Tópicos de avaliação dos seminários:
 
 #. Plano de Aula:
 
@@ -201,7 +198,7 @@ A avaliação do seminário se dará segundo os 5 critérios seguintes:
 
 **Aprovação**
 
-Os critérios de aprovação, recuperação e reprovação são os seguintes:
+Aprovação, recuperação e reprovação seguem estes critérios:
 
 :Aprovação:
 
@@ -215,41 +212,29 @@ Os critérios de aprovação, recuperação e reprovação são os seguintes:
 
     :math:`N_f < 3.0`
 
-e se aplicam aos discentes com até 25% de faltas_.
+os quais se aplicam a discentes com até 25% de faltas_.
 
 **Recuperação**
-   A recuperação, digamos :math:`R`, é uma prova com as
-   características seguintes:
+   A recuperação, :math:`R`, é uma prova:
 
-   - tem o valor máximo de 10.0 pontos;
-   - 75% do conteudo;
-   - 8 questoes no valor de 1.125 cada;
-   - 
+   - com valor máximo de 10.0 pontos:
+   - contendo 8 questões no valor de 1.25 pontos cada uma;
+   - que abrange, pelo menos, 75% do conteúdo estudado;
 
-    A recuperação final (:math:`R`) será uma avaliação de pontuação possível
-    entre 0 a 10,0, na data prevista neste plano e de acordo com o calendário
-    acadêmico, e abrangerá no mínimo 75% de todo conteúdo desenvolvido ao longo
-    do semestre. A avaliação será composta com 8 questões, com valor de 1,125
-    pontos cada uma, e versando sobre os conteúdos e seus assuntos
-    correlatados: funções complexas; derivada de funções complexas, equações de
-    Cauchy-Riemann, integral de funções complexas sobre caminhos regulares por
-    partes, Expansão em série de Taylor, expansão em série de Laurent, cálculo
-    de resíduos e aplicações. A nota final (:math:`M_f`) do discente após a
-    recuperação final será a maior nota entre :math:`N_f` e a média aritmética
-    simples de :math:`N_f` com a :math:`R`, ou seja,
+A média final, :math:`M_f`, será assim calculada:
 
 .. math::
    \begin{equation}
    M_f = \mbox{máx}\left\{N_f, \dfrac{N_f+R}{2}\right\}.
    \end{equation}
 
-O discente será considerado:
+Critérios de aprovação e reprovação:
 
-:Aprovado:
+:Aprovação:
 
     :math:`M_f \geqslant 6.0`
 
-:Reprovado:
+:Reprovação:
 
     :math:`M_f < 6.0`
 
@@ -258,32 +243,26 @@ O discente será considerado:
 **Faltas**
 
 O `Regulamento dos Cursos de Graduação do IF Goiano <https://suap.ifgoiano.edu.
-br/media/documentos/arquivos/Regulamento_de_Gradua%C3%A7%C3%A3o_Res._054-CS-2019
-_-_Revisado_e_atualizado.pdf>`_ estabelece que:
+br/media/documentos/arquivos/Regulamento_de_Gradua%C3%A7%C3%A3o_Res._054-CS-201
+9_-_Revisado_e_atualizado.pdf>`_ estabelece que:
 
 ::
 
     Art. 104. Considera-se frequência a presença do discente em atividades letivas previstas no calendário acadêmico.
 
-    §1º Será exigido do estudante o mínimo de 75% de presença às atividades letivas para a aprovação na disciplina a
-    partir da data de sua matrícula na mesma.
+    §1º Será exigido do estudante o mínimo de 75% de presença às atividades letivas para a aprovação na disciplina a partir da data de sua matrícula na mesma.
 
     ...
 
-    Art. 105. Será computada a frequência do estudante que estiver participando de eventos acadêmicos, bem como viagens
-    ou visitas técnicas, organizadas pela Instituição, orientadas e acompanhadas por docentes, com lista de presença
-    assinada pelo estudante.
+    Art. 105. Será computada a frequência do estudante que estiver participando de eventos acadêmicos, bem como viagens ou visitas técnicas, organizadas pela Instituição, orientadas e acompanhadas por docentes, com lista de presença assinada pelo estudante.
 
-    Parágrafo único.A carga horária a ser computada, por disciplina,será,no máximo, a carga horária regular da
-    disciplina nos dias de participação no evento.
+    Parágrafo único.A carga horária a ser computada, por disciplina,será,no máximo, a carga horária regular da disciplina nos dias de participação no evento.
 
     ...
 
-    Art. 106. Consideram-se faltas justificadas as ausências do estudante com devida comprovação legal, aceita nos
-    termos da legislação vigente.
+    Art. 106. Consideram-se faltas justificadas as ausências do estudante com devida comprovação legal, aceita nos termos da legislação vigente.
 
-    Parágrafo único. A justificativa à ausência não abona as faltas dos estudantes. Portanto, essas são contabilizadas
-    normalmente no percentual máximo permitido na unidade curricular.
+    Parágrafo único. A justificativa à ausência não abona as faltas dos estudantes. Portanto, essas são contabilizadas normalmente no percentual máximo permitido na unidade curricular.
 
 Bibliografia
 ------------
@@ -307,9 +286,9 @@ Bibliografia
 Atendimento
 -----------
 
-- Atendimento na sala do Professor, em horário previamente divulgado;
-- Através do e-mail institucional: marcelo.barboza@ifgoiano.edu.br;
-- Através da plataforma de aprendizagem *Moodle*.
+- Na sala do Professor, em horário divulgado na primeira aula;
+- Pelo e-mail institucional: marcelo.barboza@ifgoiano.edu.br;
+- Pela plataforma de aprendizagem *Moodle*.
 
 Cronograma
 ----------
