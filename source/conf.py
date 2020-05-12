@@ -137,7 +137,7 @@ html_theme_options = {'nosidebar': True}
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
-# html_title = 'Blueprints va1'
+html_title = 'Blueprints'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #

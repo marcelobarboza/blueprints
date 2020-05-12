@@ -65,7 +65,7 @@ Objetivos
     Introduzir funções de uma variável complexa e estender a estas o cálculo
     diferencial e integral para funções de uma variável real, com vistas a
     familiarizar o estudante à fórmula integral de Cauchy e suas consequências,
-    como o cálculo de integrais impróprias de funções de uma variável real.
+    como o cálculo de integrais de funções de uma variável real.
 
 **Específico**
     Manejo de funções de variável complexa; expansão em série de Laurent;
@@ -129,19 +129,19 @@ As aulas serão sempre expositivas e o quadro negro e o giz são os recursos
 didáticos essenciais. No decorrer do semestre serão oferecidos materiais
 suplementares às aulas, como listas de exercícios ou links para certas páginas
 da Internet, através da plataforma de aprendizagem `Moodle
-<https://moodel.ifgoiano.edu.br>`_.
+<https://moodle.ifgoiano.edu.br>`_.
 
 Para informações sobre atendimento, clique aqui_.
 
 Avaliação
 ---------
 
-A note final de cada aluno, que representaremos por :math:`N_f`, será composta
+A nota final de cada aluno, que representaremos por :math:`N_f`, será composta
 de:
  
-- duas provas escritas, :math:`P_1` e :math:`P_2`, no valor de 10,0 pontos
+- duas provas escritas, :math:`P_1` e :math:`P_2`, no valor de 10.0 pontos
   cada;
-- um seminário, :math:`S`, no valor de 10,0 pontos,
+- um seminário, :math:`S`, no valor de 10.0 pontos,
 
 seguindo-se a fórmula abaixo:
 
@@ -201,23 +201,33 @@ A avaliação do seminário se dará segundo os 5 critérios seguintes:
 
 **Aprovação**
 
-O discente está
+Os critérios de aprovação, recuperação e reprovação são os seguintes:
 
-:Aprovado:
+:Aprovação:
 
     :math:`N_f \geqslant 6.0`
 
-:Em recuperação:
+:Recuperação:
 
-    :math:`N_f < 6.0 \mbox{ e } N_f \geqslant 3.0`
+    :math:`N_f < 6.0 \quad\mbox{e}\quad N_f \geqslant 3.0`
 
-:Reprovado:
+:Reprovação:
 
     :math:`N_f < 3.0`
 
-desde que possua o mínimo de 75% de frequência na disciplina. Veja isto_.
+e se aplicam aos discentes com frequência mínima de 75%.
+
+Veja isto_.
 
 **Recuperação**
+   A recuperação, digamos :math:`R`, é uma prova com as
+   características seguintes:
+
+   - tem o valor máximo de 10.0 pontos;
+   - 75% do conteudo;
+   - 8 questoes no valor de 1.125 cada;
+   - 
+
     A recuperação final (:math:`R`) será uma avaliação de pontuação possível
     entre 0 a 10,0, na data prevista neste plano e de acordo com o calendário
     acadêmico, e abrangerá no mínimo 75% de todo conteúdo desenvolvido ao longo
