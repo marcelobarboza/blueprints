@@ -1,55 +1,22 @@
-.. image:: ../images/marca.png
-   :width: 120
-
 ===============
 Plano de Ensino
 ===============
-
-.. toctree::
-   :maxdepth: 2
 
 -------------
 Identificação
 -------------
 
-:Disciplina:
-
-    Funções de uma variável complexa
-
-:Código:
-
-    MAT701
-
-:Curso:
-
-    Licenciatura em Matemática
-
-:Modalidade:
-
-    Obrigatória
-
-:Pré-Requisitos:
-
-    MAT401
-
-:Carga-Horária:
-
-    - Presencial:
-
-        - Teórica: 68h
-        - Prática: 0h
-
-    - À Distância:
-
-        - Teórica: 0h
-
-:Docente:
-
-    Marcelo Barboza
-
-:Semestre:
-
-    2020/1
++------------+--------+------------+-------------------+----------+---------+-------------+
+| Disciplina | Funções de uma variável complexa        | Carga Horária                    |
++------------+--------+------------+-------------------+----------+---------+-------------+
+| Código     | MAT701 | Modalidade | Obrigatória       | Presencial         | Remota      |
++------------+--------+------------+-------------------+----------+---------+-------------+
+| Período    | 7º     | Requisito  | MAT401            | Teórica  | Prática | Teórica     |
++------------+--------+------------+-------------------+----------+---------+-------------+
+| Curso      | Licenciatura em Matemática              | 68h      | 0h      | 0h          |
++------------+--------+------------+-------------------+----------+---------+-------------+
+| Docente    | Marcelo Barboza                         | Semestre | 2020/1                |
++------------+--------+------------+-------------------+----------+---------+-------------+
 
 ------
 Ementa
@@ -63,14 +30,12 @@ Objetivos
 ---------
 
 **Geral**
-
     Introduzir funções de uma variável complexa e estender a estas o cálculo
     diferencial e integral para funções de uma variável real, com vistas a
     familiarizar o estudante à fórmula integral de Cauchy e suas consequências,
     como o cálculo de certas integrais de funções de uma variável real.
 
 **Específico**
-
     Manejo de funções de variável complexa; expansão em série de Laurent;
     classificação de singularidades e cálculo de resíduos; aplicação do Teorema
     dos resíduos ao cálculo de integrais de funções de uma variável real.
@@ -150,7 +115,10 @@ Avaliação
 
    seguindo-se esta fórmula:
 
-   .. math:: \begin{equation}N_f=\dfrac{2P_1+2P_2+S}{5}.\end{equation}
+   .. math::
+      \begin{equation}
+      N_f=\dfrac{2P_1+2P_2+S}{5}.
+      \end{equation}
 
 #. Aprovação, recuperação e reprovação seguem a estes critérios:
 
@@ -215,14 +183,14 @@ Avaliação
    - contendo 8 questões no valor de 1.25 pontos cada uma;
    - que abrange, pelo menos, 75% do conteúdo estudado;
 
-#. A média final, :math:`M_f`, será assim calculada:
+   A média final, :math:`M_f`, será calculada por esta fórmula:
 
    .. math::
       \begin{equation}
       M_f = \mbox{máx}\left\{N_f, \dfrac{N_f+R}{2}\right\}.
       \end{equation}
 
-#. Critérios de aprovação e reprovação:
+#. Aprovação e reprovação seguem a estes critérios:
 
    :Aprovação: :math:`M_f \geqslant 6.0`
    :Reprovação: :math:`M_f < 6.0`
@@ -237,33 +205,44 @@ br/media/documentos/arquivos/Regulamento_de_Gradua%C3%A7%C3%A3o_Res._054-CS-201
 
 ::
 
-    Art. 104. Considera-se frequência a presença do discente em atividades letivas previstas no calendário acadêmico.
+    Art. 104. Considera-se frequência a presença do discente em atividades 
+    letivas previstas no calendário acadêmico.
 
-    §1º Será exigido do estudante o mínimo de 75% de presença às atividades letivas para a aprovação na disciplina a partir da data de sua matrícula na mesma.
-
-    ...
-
-    Art. 105. Será computada a frequência do estudante que estiver participando de eventos acadêmicos, bem como viagens ou visitas técnicas, organizadas pela Instituição, orientadas e acompanhadas por docentes, com lista de presença assinada pelo estudante.
-
-    Parágrafo único.A carga horária a ser computada, por disciplina,será,no máximo, a carga horária regular da disciplina nos dias de participação no evento.
+    §1º Será exigido do estudante o mínimo de 75% de presença às atividades
+    letivas para a aprovação na disciplina a partir da data de sua matrícula
+    na mesma.
 
     ...
 
-    Art. 106. Consideram-se faltas justificadas as ausências do estudante com devida comprovação legal, aceita nos termos da legislação vigente.
+    Art. 105. Será computada a frequência do estudante que estiver participando
+    de eventos acadêmicos, bem como viagens ou visitas técnicas, organizadas
+    pela Instituição, orientadas e acompanhadas por docentes, com lista de
+    presença assinada pelo estudante.
 
-    Parágrafo único. A justificativa à ausência não abona as faltas dos estudantes. Portanto, essas são contabilizadas normalmente no percentual máximo permitido na unidade curricular.
+    Parágrafo único.A carga horária a ser computada, por disciplina,será, no
+    máximo, a carga horária regular da disciplina nos dias de participação no
+    evento.
+
+    ...
+
+    Art. 106. Consideram-se faltas justificadas as ausências do estudante com
+    devida comprovação legal, aceita nos termos da legislação vigente.
+
+    Parágrafo único. A justificativa à ausência não abona as faltas dos
+    estudantes. Portanto, essas são contabilizadas normalmente no percentual
+    máximo permitido na unidade curricular.
 
 ------------
 Bibliografia
 ------------
 
-.. rubric:: Básica
+**Básica**
 
 .. [1] Churchill, Ruel V. Variáveis complexas e suas aplicações. McGraw-Hill do Brasil, 1980;
 .. [2] Ávila, Geraldo. Variáveis complexas e aplicações. LTC, 2008;
 .. [3] Fernandez, Cecília. S.; Bernardes, Nilson C. Introdução às funções de uma variável complexa. SBM, 2013.
 
-.. rubric:: Complementar
+**Complementar**
 
 .. [4] Soares, Marcio Gomes. Cálculo em uma variável complexa. Impa, 2012;
 .. [5] Lins Neto, Alcides. Funções de uma variável complexa. Rio de Janeiro: SBM, 1996;
@@ -286,8 +265,8 @@ Cronograma
 ----------
 
 .. csv-table::
-   :header: "Previsão", "Nº de aulas", "Conteúdo"
-   :widths: 4, 5, 30
+   :header: "Previsão", "Aulas", "Conteúdo"
+   :widths: 4, 5, 25
 
    "2020/02/03", 2, "Apresentação do plano de ensino"
    "2020/02/06", 2, "Proposições e conectivos"
